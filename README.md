@@ -1,5 +1,6 @@
 # Rynix-Internship
 Intern Performance Analytics &amp; Insights Dashboard 
+
 🚀 Project Overview
 
 The Intern Performance Analytics & Insights Dashboard is a data-driven project designed to evaluate and analyze intern performance based on key metrics such as attendance, task completion, and performance scores.
@@ -7,15 +8,16 @@ The Intern Performance Analytics & Insights Dashboard is a data-driven project d
 This project helps in making data-based decisions for hiring, stipends, and performance evaluation.
 
 🎯 Objectives
+
 Analyze intern performance using structured data
 Automate calculation of attendance and task completion
 Generate performance scores and status
 Provide hiring recommendations based on performance
 Visualize insights using dashboards
+
+
 📂 Dataset Details
-
 The dataset includes the following fields:
-
 Intern ID
 Name
 Email ID
