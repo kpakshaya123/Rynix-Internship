@@ -1,0 +1,52 @@
+Internid,Name,Email id,Gender,Phone number,Domain,Date Range,Total days,sod filled,eod filled,Attendance,Total Task,Task1 completed,Task1 score,Task2 completed,Task2 score,Task3 completed,Task3 score,Task4 completed,Task4 score,Count overall task,Task completion,performance score,performance status,Stipend,Hiring Recommendation
+INT001,Aarav Sharma,aarav@example.com,Male,9876543210,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,95,Yes,87,Yes,85,Yes,94,4,100,90,Outstanding,15000,Hired as Employee
+INT002,Ishita Kapoor,ishita@example.com,Female,9876543211,Web dev,1/3/2026-1/4/2026,31,25,24,79,4,Yes,80,Yes,90,Yes,85,Yes,82,4,100,84,Excellent,10000,Intern for 6 months
+INT003,Rohan Mehta,rohan@example.com,Male,9876543212,Ui/ux,1/3/2026-1/4/2026,31,10,12,35,4,No,0,No,0,Yes,40,No,0,1,25,10,Improvement,0,Intern for 1 month
+INT004,Priya Rai,priya@example.com,Female,9876543213,Python,1/3/2026-1/4/2026,31,31,30,98,4,Yes,92,Yes,85,Yes,90,Yes,95,4,100,91,Outstanding,15000,Hired as Employee
+INT005,Amit Verma,amit@example.com,Male,9876543214,Java,1/3/2026-1/4/2026,31,22,20,68,4,Yes,70,Yes,82,No,0,Yes,65,3,75,54,Average,10000,Intern for 6 months
+INT006,Sanya Malhotra,sanya@example.com,Female,9876543215,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,98,Yes,83,Yes,97,Yes,99,4,100,94,Outstanding,15000,Hired as Employee
+INT007,Vikram Singh,vikram@example.com,Male,9876543216,Web dev,1/3/2026-1/4/2026,31,15,14,47,4,No,0,Yes,86,No,0,No,0,1,25,22,Improvement,0,Intern for 1 month
+INT008,Ananya Iyer,ananya@example.com,Female,9876543217,Ui/ux,1/3/2026-1/4/2026,31,28,29,92,4,Yes,88,Yes,81,Yes,85,Yes,90,4,100,86,Excellent,15000,Hired as Employee
+INT009,Rahul Jain,rahul@example.com,Male,9876543218,Python,1/3/2026-1/4/2026,31,31,31,100,4,Yes,94,Yes,82,Yes,96,Yes,92,4,100,91,Outstanding,15000,Hired as Employee
+INT010,Kavya Nair,kavya@example.com,Female,9876543219,Java,1/3/2026-1/4/2026,31,24,24,77,4,Yes,75,Yes,85,Yes,70,Yes,78,4,100,77,Excellent,10000,Intern for 6 months
+INT011,Arjun Das,arjun@example.com,Male,9876543220,Data science,1/3/2026-1/4/2026,31,30,30,97,4,Yes,91,Yes,87,Yes,93,Yes,92,4,100,91,Outstanding,15000,Hired as Employee
+INT012,Sneha Reddy,sneha@example.com,Female,9876543221,Web dev,1/3/2026-1/4/2026,31,12,10,35,4,No,0,No,0,No,0,No,0,0,0,0,Improvement,0,Intern for 1 month
+INT013,Manish Goel,manish@example.com,Male,9876543222,Ui/ux,1/3/2026-1/4/2026,31,26,27,85,4,Yes,82,Yes,86,Yes,80,Yes,84,4,100,83,Excellent,15000,Hired as Employee
+INT014,Pooja Hegde,pooja@example.com,Female,9876543223,Python,1/3/2026-1/4/2026,31,31,31,100,4,Yes,96,Yes,86,Yes,95,Yes,97,4,100,94,Outstanding,15000,Hired as Employee
+INT015,Varun Dhawan,varun@example.com,Male,9876543224,Java,1/3/2026-1/4/2026,31,20,18,61,4,Yes,65,No,90,Yes,60,Yes,55,3,75,68,Good,10000,Intern for 6 months
+INT016,Deepika P.,deepika@example.com,Female,9876543225,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,99,Yes,95,Yes,98,Yes,100,4,100,98,Outstanding,15000,Hired as Employee
+INT017,Sid M.,sid@example.com,Male,9876543226,Web dev,1/3/2026-1/4/2026,31,28,28,90,4,Yes,87,Yes,82,Yes,89,Yes,86,4,100,86,Excellent,15000,Hired as Employee
+INT018,Kiara A.,kiara@example.com,Female,9876543227,Ui/ux,1/3/2026-1/4/2026,31,14,12,42,4,No,0,No,75,Yes,50,No,0,1,25,31,Improvement,0,Intern for 1 month
+INT019,Ayush K.,ayush@example.com,Male,9876543228,Python,1/3/2026-1/4/2026,31,31,30,98,4,Yes,93,Yes,65,Yes,91,Yes,94,4,100,86,Excellent,15000,Hired as Employee
+INT020,Tara S.,tara@example.com,Female,9876543229,Java,1/3/2026-1/4/2026,31,25,25,81,4,Yes,78,Yes,50,Yes,75,Yes,80,4,100,71,Excellent,10000,Intern for 6 months
+INT021,Ranbir K.,ranbir@example.com,Male,9876543230,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,95,Yes,85,Yes,94,Yes,95,4,100,92,Outstanding,15000,Hired as Employee
+INT022,Alia B.,alia@example.com,Female,9876543231,Web dev,1/3/2026-1/4/2026,31,31,31,100,4,Yes,91,Yes,77,Yes,92,Yes,90,4,100,88,Excellent,15000,Hired as Employee
+INT023,Kartik A.,kartik@example.com,Male,9876543232,Ui/ux,1/3/2026-1/4/2026,31,18,17,56,4,Yes,55,No,0,Yes,60,No,0,2,50,29,Improvement,0,Intern for 1 month
+INT024,Sara K.,sara@example.com,Female,9876543233,Python,1/3/2026-1/4/2026,31,30,31,98,4,Yes,89,Yes,66,Yes,88,Yes,89,4,100,83,Excellent,15000,Hired as Employee
+INT025,Vicky K.,vicky@example.com,Male,9876543234,Java,1/3/2026-1/4/2026,31,10,10,32,4,No,0,No,0,No,0,No,0,0,0,0,Improvement,0,Intern for 1 month
+INT026,Katrina K.,katrina@example.com,Female,9876543235,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,97,Yes,50,Yes,96,Yes,98,4,100,268,Outstanding,15000,Hired as Employee
+INT027,Hrithik R.,hrithik@example.com,Male,9876543236,Web dev,1/3/2026-1/4/2026,31,29,29,94,4,Yes,86,Yes,89,Yes,84,Yes,87,4,100,281,Outstanding,15000,Hired as Employee
+INT028,Kriti S.,kriti@example.com,Female,9876543237,Ui/ux,1/3/2026-1/4/2026,31,31,31,100,4,Yes,92,Yes,90,Yes,93,Yes,91,4,100,298,Outstanding,15000,Hired as Employee
+INT029,Tiger S.,tiger@example.com,Male,9876543238,Python,1/3/2026-1/4/2026,31,15,12,44,4,No,0,No,0,Yes,45,No,0,1,25,45,Average,0,Intern for 1 month
+INT030,Rashmika M.,rashmika@example.com,Female,9876543239,Java,1/3/2026-1/4/2026,31,27,27,87,4,Yes,82,Yes,75,Yes,80,Yes,81,4,100,257,Outstanding,15000,Hired as Employee
+INT031,Vijay D.,vijay@example.com,Male,9876543240,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,94,Yes,95,Yes,95,Yes,94,4,100,308,Outstanding,15000,Hired as Employee
+INT032,Samantha R.,samantha@example.com,Female,9876543241,Web dev,1/3/2026-1/4/2026,31,31,31,100,4,Yes,91,Yes,86,Yes,90,Yes,92,4,100,290,Outstanding,15000,Hired as Employee
+INT033,Prabhas R.,prabhas@example.com,Male,9876543242,Ui/ux,1/3/2026-1/4/2026,31,24,22,74,4,Yes,72,Yes,96,No,0,Yes,70,3,75,186,Outstanding,10000,Intern for 6 months
+INT034,Nayanthara K.,nayan@example.com,Female,9876543243,Python,1/3/2026-1/4/2026,31,31,30,98,4,Yes,95,Yes,82,Yes,96,Yes,94,4,100,296,Outstanding,15000,Hired as Employee
+INT035,Nayanthara K.,nayan@example.com,Female,9876543244,Python,1/3/2026-1/4/2027,31,31,30,98,4,Yes,96,Yes,81,Yes,97,Yes,94,4,100,298,Outstanding,15000,Hired as Employee
+INT035,Allu A.,allu@example.com,Male,9876543244,Java,1/3/2026-1/4/2026,31,11,10,34,4,No,0,No,80,No,0,No,0,0,0,20,Improvement,0,Intern for 1 month
+INT036,Trisha K.,trisha@example.com,Female,9876543245,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,98,Yes,80,Yes,97,Yes,98,4,100,93,Outstanding,15000,Hired as Employee
+INT037,Ram C.,ram@example.com,Male,9876543246,Web dev,1/3/2026-1/4/2026,31,28,29,92,4,Yes,85,Yes,86,Yes,82,Yes,84,4,100,84,Excellent,15000,Hired as Employee
+INT038,Tamannaah B.,tam@example.com,Female,9876543247,Ui/ux,1/3/2026-1/4/2026,31,30,30,97,4,Yes,89,Yes,82,Yes,90,Yes,88,4,100,87,Excellent,15000,Hired as Employee
+INT039,Mahesh B.,mahesh@example.com,Male,9876543248,Python,1/3/2026-1/4/2026,31,14,15,47,4,No,0,No,0,Yes,55,No,0,1,25,14,Improvement,0,Intern for 1 month
+INT040,Keerthy S.,keerthy@example.com,Female,9876543249,Java,1/3/2026-1/4/2026,31,26,25,82,4,Yes,78,Yes,84,Yes,74,Yes,76,4,100,78,Excellent,10000,Intern for 6 months
+INT041,Yash G.,yash@example.com,Male,9876543250,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,96,Yes,89,Yes,95,Yes,96,4,100,94,Outstanding,15000,Hired as Employee
+INT042,Rakul P.,rakul@example.com,Female,9876543251,Web dev,1/3/2026-1/4/2026,31,31,31,100,4,Yes,93,Yes,70,Yes,94,Yes,92,4,100,87,Excellent,15000,Hired as Employee
+INT043,Nani K.,nani@example.com,Male,9876543252,Ui/ux,1/3/2026-1/4/2026,31,20,21,66,4,Yes,68,No,0,No,0,Yes,65,2,50,33,Improvement,0,Intern for 1 month
+INT044,Sai P.,sai@example.com,Female,9876543253,Python,1/3/2026-1/4/2026,31,31,31,100,4,Yes,94,Yes,75,Yes,93,Yes,95,4,100,89,Excellent,15000,Hired as Employee
+INT045,Dhanush K.,dhanush@example.com,Male,9876543254,Java,1/3/2026-1/4/2026,31,12,11,37,4,No,0,No,0,No,0,No,0,0,0,0,Improvement,0,Intern for 1 month
+INT046,Kajal A.,kajal@example.com,Female,9876543255,Data science,1/3/2026-1/4/2026,31,31,31,100,4,Yes,97,Yes,70,Yes,98,Yes,97,4,100,91,Outstanding,15000,Hired as Employee
+INT047,Surya S.,surya@example.com,Male,9876543256,Web dev,1/3/2026-1/4/2026,31,28,27,89,4,Yes,84,Yes,75,Yes,86,Yes,83,4,100,82,Excellent,15000,Hired as Employee
+INT048,Shruti H.,shruti@example.com,Female,9876543257,Ui/ux,1/3/2026-1/4/2026,31,31,30,98,4,Yes,91,Yes,70,Yes,92,Yes,90,4,100,86,Excellent,15000,Hired as Employee
+INT049,Dulquer S.,dulquer@example.com,Male,9876543258,Python,1/3/2026-1/4/2026,31,16,14,48,4,No,0,No,0,Yes,48,No,0,1,25,12,Improvement,0,Intern for 1 month
+INT050,Anushka S.,anushka@example.com,Female,9876543259,Java,1/3/2026-1/4/2026,31,29,29,94,4,Yes,88,Yes,79,Yes,87,Yes,89,4,100,86,Excellent,15000,Hired as Employee
